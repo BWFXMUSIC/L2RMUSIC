@@ -13,7 +13,7 @@ numpy
 OpsAi
 pillow==9.5.0
 psutil
-py-tgcalls==1.2.9
+git+https://github.com/BWFXMUSIC/pytgcalls
 ntgcalls==1.1.2
 pykeyboard
 pyrogram==2.0.106
