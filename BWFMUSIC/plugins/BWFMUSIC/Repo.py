@@ -2,7 +2,7 @@ from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from BWFMUSIC import app as bot
 import requests
-from BWFMUSIC.utils.errors import capture_err
+from Romeo.utils.errors import capture_err
 
 start_txt = """**
 ⛩️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʙω͠ғ ʀᴇᴘᴏ⛩️
